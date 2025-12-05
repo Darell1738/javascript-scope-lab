@@ -5,15 +5,15 @@
     "passes": 13,
     "pending": 0,
     "failures": 0,
-    "start": "2025-12-04T08:33:45.446Z",
-    "end": "2025-12-04T08:33:45.849Z",
-    "duration": 403
+    "start": "2025-12-05T19:53:13.179Z",
+    "end": "2025-12-05T19:53:13.763Z",
+    "duration": 584
   },
   "tests": [
     {
       "title": "is declared using const",
       "fullTitle": "index.js burgers is declared using const",
-      "duration": 1,
+      "duration": 2,
       "currentRetry": 0,
       "err": {}
     },
@@ -41,7 +41,7 @@
     {
       "title": "is set to the value 'Strawberry Milkshake'",
       "fullTitle": "index.js featuredDrink is set to the value 'Strawberry Milkshake'",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -76,14 +76,14 @@
     {
       "title": "creates a block-scoped variable named anotherNewBurger using the const keyword and assigns it the value 'Maple Bacon Burger'",
       "fullTitle": "index.js if statement creates a block-scoped variable named anotherNewBurger using the const keyword and assigns it the value 'Maple Bacon Burger'",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "uses the .push() array method to add anotherNewBurger, which has the value of 'Maple Bacon Burger', to the burgers array",
       "fullTitle": "index.js if statement uses the .push() array method to add anotherNewBurger, which has the value of 'Maple Bacon Burger', to the burgers array",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -97,7 +97,7 @@
     {
       "title": "when called, changes the value of the featuredDrink variable to 'The JavaShake'",
       "fullTitle": "index.js changeFeaturedDrink when called, changes the value of the featuredDrink variable to 'The JavaShake'",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     }
@@ -108,7 +108,7 @@
     {
       "title": "is declared using const",
       "fullTitle": "index.js burgers is declared using const",
-      "duration": 1,
+      "duration": 2,
       "currentRetry": 0,
       "err": {}
     },
@@ -136,7 +136,7 @@
     {
       "title": "is set to the value 'Strawberry Milkshake'",
       "fullTitle": "index.js featuredDrink is set to the value 'Strawberry Milkshake'",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -171,14 +171,14 @@
     {
       "title": "creates a block-scoped variable named anotherNewBurger using the const keyword and assigns it the value 'Maple Bacon Burger'",
       "fullTitle": "index.js if statement creates a block-scoped variable named anotherNewBurger using the const keyword and assigns it the value 'Maple Bacon Burger'",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "uses the .push() array method to add anotherNewBurger, which has the value of 'Maple Bacon Burger', to the burgers array",
       "fullTitle": "index.js if statement uses the .push() array method to add anotherNewBurger, which has the value of 'Maple Bacon Burger', to the burgers array",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -192,7 +192,7 @@
     {
       "title": "when called, changes the value of the featuredDrink variable to 'The JavaShake'",
       "fullTitle": "index.js changeFeaturedDrink when called, changes the value of the featuredDrink variable to 'The JavaShake'",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     }
